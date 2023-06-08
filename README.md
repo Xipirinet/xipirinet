@@ -1,6 +1,9 @@
 ### Buenas chicos 👋
+
 Este es mi repositorio como desarrollador.
-**Estoy iniciándome** en este mundillo y poco a poco iré subiendo contenido.**Estoy iniciándome** en este mundillo y poco a poco iré subiendo contenido.
+
+**Estoy iniciándome** en este mundillo y poco a poco iré subiendo contenido.
+
 Nos vemos pronto.
 <!--
 **Xipirinet/xipirinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
